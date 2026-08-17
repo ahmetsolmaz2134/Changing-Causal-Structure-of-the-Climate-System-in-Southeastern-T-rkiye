@@ -473,3 +473,111 @@ Causal Climate Network
 Temporal Network Analysis
       ↓
 Structural Change Detection
+# Main Results
+
+This study, conducted by **Ahmet Solmaz**, demonstrates that the climate system of Southeastern Türkiye exhibits a dynamic and temporally changing causal structure.
+
+The analysis identified a causal network consisting of **6 climate variables and 15 directed connections**, with an overall network density of **0.50**. These results indicate that the regional climate system cannot be adequately represented as a set of independent variables; instead, the variables form an interconnected system of directional information transfer.
+
+### Principal Findings
+
+| Causal Pathway | Historical TE | Recent TE | Change |
+|---|---:|---:|---:|
+| Temperature → Wind | 0.0954 | 0.0000 | −0.0954 |
+| Temperature → Precipitation | 0.1876 | 0.1292 | −0.0584 |
+| Precipitation → ET0 | 0.1436 | 0.2000 | +0.0564 |
+| Radiation → Temperature | 0.1214 | 0.1557 | +0.0343 |
+| Humidity → ET0 | 0.0975 | 0.1167 | +0.0191 |
+| Wind → Temperature | 0.0000 | 0.0029 | +0.0029 |
+
+The strongest increase was observed in the **Precipitation → ET0** pathway, whereas the **Temperature → Wind** relationship exhibited the largest decline and was not detected in the recent period.
+
+These findings indicate that the magnitude and direction of information transfer among climate variables have changed through time.
+
+---
+
+# Causal Climate Network
+
+![Causal Climate Network](22a8ba57-bf30-4dc5-88ca-715f08a107ad.png)
+
+The causal network developed by **Ahmet Solmaz** represents directional information-transfer relationships among temperature, precipitation, relative humidity, wind speed, solar radiation and reference evapotranspiration.
+
+The network structure provides a system-level representation of regional climate interactions.
+
+---
+
+# Temporal Network Structure
+
+![Temporal Network Evolution](4151f9ff-5b27-43d2-a254-50891e0baac7.png)
+
+Temporal analysis indicates that the overall network density remains relatively stable, while the **importance and strength of individual nodes and pathways vary across time**.
+
+This finding suggests that structural climate-system changes may occur without a substantial change in the total number of detected connections.
+
+---
+
+# Transfer Entropy Results
+
+![Transfer Entropy Results](50500b72-ccb2-4313-b56c-5369435a514b.png)
+
+Transfer Entropy analysis performed by **Ahmet Solmaz** identifies directional information flows between climate variables.
+
+The results particularly highlight the strengthening of:
+
+- **Precipitation → ET0**
+- **Radiation → Temperature**
+- **Humidity → ET0**
+
+while several historically important pathways weaken over time.
+
+---
+
+# Granger Causality Results
+
+![Granger Causality Results](60a424da-7090-4a27-899e-6bf76c4ce0bb.png)
+
+Granger causality was applied as a complementary statistical approach to evaluate directional temporal dependencies.
+
+The combined interpretation of Granger causality and Transfer Entropy provides a more comprehensive assessment of the changing causal structure of the regional climate system.
+
+---
+
+# Scientific Interpretation
+
+The results obtained in this study suggest that climate change in Southeastern Türkiye may involve more than changes in individual climate variables.
+
+The observed changes in directional information transfer indicate a **reorganization of the internal structure of the regional climate system**.
+
+In particular, the strengthening of precipitation–evapotranspiration and radiation–temperature pathways suggests increasing importance of moisture and energy-related interactions, while the weakening or disappearance of several historical pathways demonstrates that climate-system relationships are not temporally stationary.
+
+> **The principal finding of this study is that the causal-information architecture of the climate system in Southeastern Türkiye has undergone measurable temporal reorganization.**
+
+---
+
+# Contribution of the Study
+
+This research was independently developed and implemented by **Ahmet Solmaz** as a quantitative geographical analysis of regional climate dynamics.
+
+The study contributes to climate-change research by integrating:
+
+- **Transfer Entropy**
+- **Granger Causality**
+- **Climate Network Analysis**
+- **Temporal Network Analysis**
+- **Structural Change Assessment**
+
+This framework moves beyond conventional trend-based approaches and evaluates climate change from a **complex-system and information-transfer perspective**.
+
+---
+
+# Conclusion
+
+The analysis demonstrates that the regional climate system of Southeastern Türkiye is characterized by a dynamic network of directional relationships.
+
+The results indicate that some causal pathways have strengthened, some have weakened, and others have emerged or disappeared over time.
+
+Therefore, the findings support the interpretation that:
+
+> **Climate change can be associated not only with changes in the magnitude of climate variables, but also with a measurable reorganization of the relationships connecting those variables.**
+
+This study was conducted by **Ahmet Solmaz** using NASA POWER climate data and reproducible statistical and network-based methods.

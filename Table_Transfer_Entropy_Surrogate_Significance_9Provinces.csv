@@ -1,0 +1,10 @@
+City,Cause,Effect,Observed_TE,Effective_TE,Z_Score,p_value,Is_Significant
+Adiyaman,temp_mean,et0_tot,0.4532,0.0373,0.39,0.4627,Non-Significant
+Batman,temp_mean,et0_tot,0.4932,0.0257,0.3,0.403,Non-Significant
+Diyarbakir,temp_mean,et0_tot,0.5021,0.0603,0.71,0.209,Non-Significant
+Gaziantep,temp_mean,et0_tot,0.4473,0.0378,0.38,0.4975,Non-Significant
+Kilis,temp_mean,et0_tot,0.5008,0.0274,0.28,0.4677,Non-Significant
+Mardin,temp_mean,et0_tot,0.4904,0.0562,0.6,0.3433,Non-Significant
+Sanliurfa,temp_mean,et0_tot,0.5057,0.0944,0.84,0.2488,Non-Significant
+Siirt,temp_mean,et0_tot,0.538,0.051,0.7,0.2836,Non-Significant
+Sirnak,temp_mean,et0_tot,0.5014,0.0393,0.44,0.2985,Non-Significant
